@@ -54,8 +54,8 @@ To easily play with our model we also provide several notebooks: `VG.ipynb`, `VQ
 
 # News
 
-* **[2023.7.25]**: we provide [here](rewarded_soups.md) more details to reproduce the results with UnIVAL on Visual Grounding used in our [Rewarded soups](https://github.com/alexrame/rewardedsoups) work.
-* **[2023.7.25]**: Released of UnIVAL code and model weights! We will release the scripts to train and evaluate audio/video tasks later.
+* **[2023.7.31]**: we provide [here](rewarded_soups.md) more details to reproduce the results with UnIVAL on Visual Grounding used in our [Rewarded soups](https://github.com/alexrame/rewardedsoups) work.
+* **[2023.7.31]**: Released of UnIVAL code and model weights! We will release the scripts to train and evaluate audio/video tasks later.
 
 <br></br>
 
