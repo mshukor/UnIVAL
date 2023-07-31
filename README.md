@@ -423,7 +423,7 @@ Below we provide qualitative results for some tasks.
 
 <p align="center">
     <br>
-    <img src="examples/results/vg.jpg" width="750" />
+    <img src="examples/results/vg.jpg" width="600" />
     <br>
 <p>
 
@@ -431,7 +431,7 @@ Below we provide qualitative results for some tasks.
 
 <p align="center">
     <br>
-    <img src="examples/results/caption.jpg" width="750" />
+    <img src="examples/results/caption.jpg" width="600" />
     <br>
 <p>
 
@@ -439,7 +439,7 @@ Below we provide qualitative results for some tasks.
 
 <p align="center">
     <br>
-    <img src="examples/results/vqa.jpg" width="750" />
+    <img src="examples/results/vqa.jpg" width="600" />
     <br>
 <p>
 
