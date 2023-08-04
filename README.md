@@ -456,7 +456,12 @@ Below we provide qualitative results for some tasks.
 If you find the work helpful, you can cite it using the following citation:
 
 ```
-TODO
+@article{shukor2023unified,
+  title={Unified Model for Image, Video, Audio and Language Tasks},
+  author={Shukor, Mustafa and Dancette, Corentin and Rame, Alexandre and Cord, Matthieu},
+  journal={arXiv preprint arXiv:2307.16184},
+  year={2023}
+}
 ```
 <br></br>
 
