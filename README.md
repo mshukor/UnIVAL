@@ -54,6 +54,7 @@ To easily play with our model we also provide several notebooks: `VG.ipynb`, `VQ
 
 # News
 
+* **[2023.12]**: paper is accepted at [TMLR](https://openreview.net/forum?id=4uflhObpcp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))!
 * **[2023.8.12]**: we provide the scripts to train UnIVAL for audio/video-text tasks.
 * **[2023.7.31]**: we provide [here](rewarded_soups.md) more details to reproduce the results with UnIVAL on Visual Grounding used in our [Rewarded soups](https://github.com/alexrame/rewardedsoups) work.
 * **[2023.7.31]**: Released of UnIVAL code and model weights! We will release the scripts to train and evaluate audio/video tasks later.
@@ -457,12 +458,17 @@ Below we provide qualitative results for some tasks.
 If you find the work helpful, you can cite it using the following citation:
 
 ```
-@article{shukor2023unified,
-  title={Unified Model for Image, Video, Audio and Language Tasks},
-  author={Shukor, Mustafa and Dancette, Corentin and Rame, Alexandre and Cord, Matthieu},
-  journal={arXiv preprint arXiv:2307.16184},
-  year={2023}
+@article{
+shukor2023unival,
+title={Un{IVAL}: Unified Model for Image, Video, Audio and Language Tasks},
+author={Mustafa Shukor and Corentin Dancette and Alexandre Rame and Matthieu Cord},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=4uflhObpcp},
+note={}
 }
+
 ```
 <br></br>
 
